@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Advanced Instagram OSINT Tool (Termux Edition)
+# 🕵️‍♂️ Ariva İnstagram Osint (Advanced Tool) (Termux Edition)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-success)
@@ -38,4 +38,12 @@ git clone https://github.com/Sametxx1/IgOsintAriva.git
 cd advanced-instagram-osint
 ```
 
+Çalıştırma:
+
+```bash
+python arivaigosint.py kullanıcıadı
+```
+```
+örnek kullanım: python arivaigosint.py nasa
+```
 YASAL ÇERÇEVE İÇİNDE KULLANINIZ!
