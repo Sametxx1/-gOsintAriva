@@ -35,7 +35,7 @@ pip install instaloader aiohttp beautifulsoup4 dnspython python-whois requests
 klonlama:
 ```
 git clone https://github.com/Sametxx1/IgOsintAriva.git
-cd advanced-instagram-osint
+cd IgOsintAriva
 ```
 
 Çalıştırma:
